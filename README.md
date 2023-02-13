@@ -1,4 +1,4 @@
-# -blind-search-algorithms.
+# Blind-search-algorithms.
 
 Algorithms were created to find the fastest route between the two cities in the Kingdom. Where the algorithms take the map as an input
 
